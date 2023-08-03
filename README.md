@@ -30,6 +30,6 @@
 - Procuro desafios que me motivem a confinuar programando.
 - Pratico diariamente pelo menos 4 horas por dia.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emfilho&layout=compact)](https://github.com/emfilho/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emfilho&layout=compact)](https://github.com/emfilho/github-readme-stats) -->
 
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
